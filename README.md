@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Lucas Pearce 🤙🏼
 
 ![Pearce's GitHub stats](https://github-readme-stats.vercel.app/api?username=pearcelucas&show_icons=true&theme=tokyonight)
-
 [![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pearcelucas&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Buscando conhecimento em 👇🏼
